@@ -1,0 +1,6 @@
+[[redirects]]
+from = "/book1"
+to = "/book2"
+status = 302
+force = false
+conditions = {Country = "ro"}
